@@ -15,5 +15,6 @@ pluginManagement {
 rootProject.name = "hyperskill-kotlin-case-study"
 
 include(
-    "case6356"
+    "case6356",
+    "case6358"
 )
