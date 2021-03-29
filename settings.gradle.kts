@@ -16,5 +16,6 @@ rootProject.name = "hyperskill-kotlin-case-study"
 
 include(
     "case6356",
-    "case6358"
+    "case6358",
+    "project-phone-book-stage1"
 )
