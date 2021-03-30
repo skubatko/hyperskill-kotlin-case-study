@@ -7,5 +7,8 @@
 ## Case6358
 [Reading files. Count the numbers](https://hyperskill.org/learn/step/6358)
 
-## Project: Phone Book. Stage 1/4
-[A needle in the hay](https://hyperskill.org/projects/86/stages/476/implement)
+## Project: Phone Book
+1. [A needle in the hay](https://hyperskill.org/projects/86/stages/476/implement) 
+2. [Jumping bubbles](https://hyperskill.org/projects/86/stages/477/implement)
+3. [Need for speed](https://hyperskill.org/projects/86/stages/478/implement)
+4. [Instant search](https://hyperskill.org/projects/86/stages/479/implement)

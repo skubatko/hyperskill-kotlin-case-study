@@ -77,7 +77,7 @@ private fun bubbleSortJumpSearch(
     println("Searching time: $searchingTimeTaken")
 }
 
-fun jumpSearch(sorted: List<String>, person: String): String {
+private fun jumpSearch(sorted: List<String>, person: String): String {
     val step = sqrt(sorted.size.toDouble()).toInt()
     for (i in 0..sorted.lastIndex step step) {
         val record = sorted[i]
@@ -122,16 +122,16 @@ private fun bubbleSort(
     return Pair(result.toList(), true)
 }
 
-fun personRecordCompare(record1: String, record2: String): Int {
+private fun personRecordCompare(record1: String, record2: String): Int {
     return personRecordName(record1).compareTo(personRecordName(record2))
 }
 
-fun personRecordName(record: String): String {
+private fun personRecordName(record: String): String {
     val idx = record.indexOf(" ")
     return record.substring(idx + 1)
 }
 
-fun switch(list: MutableList<String>, idx: Int) {
+private fun switch(list: MutableList<String>, idx: Int) {
     val value = list[idx]
     list[idx] = list[idx + 1]
     list[idx + 1] = value
