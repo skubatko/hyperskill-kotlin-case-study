@@ -1,4 +1,4 @@
-package ru.skubatko.dev.hyperskill.project.phonebook.stage1
+package ru.skubatko.dev.hyperskill.project.phonebook
 
 import java.io.File
 

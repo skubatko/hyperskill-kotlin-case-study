@@ -4,7 +4,7 @@ plugins {
 
 group = rootProject.group
 version = rootProject.version
-description = "A needle in the hay"
+description = "Project: Phone Book"
 
 dependencies {
 }
